@@ -1,0 +1,35 @@
+body {
+    background-color:black;
+    text-align:center;
+    color: #777;
+}
+
+.introSvg {
+    width:45%;
+    margin-top: 15%;
+    overflow: visible;
+}
+
+.DevCircle {
+    opacity: 0;
+
+}
+
+.intro-text {
+    margin-right: 30px;
+}
+
+.logo-container {
+    width:30%;
+    margin-top: 20%;
+
+}
+
+/*.path {*/
+    /*opacity: 0;*/
+/*}*/
+
+
+
+
+
